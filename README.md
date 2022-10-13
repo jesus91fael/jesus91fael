@@ -2,8 +2,7 @@
 ### Olá! Eu sou o Rafael Jesus 🤙
 
 - Desenvolvedor Front-end
-- Curioso, gosto de aprender e fazer novos amigos
-- Gosto de ajudar as pessoas
+- Atualmente estou focado em ReactJS, JavaScript e Typescript 
 
 ### Contatos 
 
