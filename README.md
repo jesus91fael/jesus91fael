@@ -14,16 +14,18 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jesus91fael)
 
 ### Skills
- 
-![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-![TS](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt=Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ReactJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Styled-component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="Markdown" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+ https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+                                                                                                                                                    
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus91fael&layout=compact)
