@@ -27,6 +27,6 @@
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">                                                                                                                                                                                                                               
 </div>
             
-                                                                                                                                 
+<br/>                                                                                                                                 
                                                                                                                                  
 <img align="center" width="auto" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesus91fael&layout=compact" />                  
