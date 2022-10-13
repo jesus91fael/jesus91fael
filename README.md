@@ -26,8 +26,8 @@
   <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">  
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">                                                                                                                                                                                                                               
 </div>
-
                                                                                                                                  
-<div align="center">                                                                                                                                
+<div align="center">      
+  <br />                   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus91fael&layout=compact)                                                                                           
 </div>                   
