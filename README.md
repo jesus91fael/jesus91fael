@@ -27,5 +27,7 @@
   <img align="center" alt="Markdown" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">                                                                                                                                                                                                                               
 </div>
 
-                                                                                                                                
-:![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus91fael&layout=compact):                                                                                                
+                                                                                                                                 
+<div align="center">                                                                                                                                
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus91fael&layout=compact)                                                                                           
+                   </div>                   
